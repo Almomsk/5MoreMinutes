@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#000000</color>
+    <color name="blue">#399fc7</color>
+    <color name="font">#36474f</color>
+    <color name="cardBack">#42a5f5</color>
+    <color name="backromain">#f5f5f5</color>
+    <color name="secondcardBack">#90caf9</color>
+    <color name="othercardBack">#b3e5fc</color>
+
+    <color name="chart_undef">#607d8b</color>
+    <color name="chart_video">#e53935</color>
+    <color name="chart_audio">#d32f2f</color>
+    <color name="chart_maps">#ff9800</color>
+    <color name="chart_social">#4fc3f7</color>
+    <color name="chart_product">#9C27B0</color>
+    <color name="chart_games">#795548</color>
+    <color name="chart_image">#66bb6a</color>
+    <color name="chart_news">#ffca28</color>
+    <color name="piechart">#9ac69c</color>
+</resources>
